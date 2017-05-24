@@ -21,7 +21,7 @@
         {
             "path": "modules/market.history.js",
             "runAt":{
-                "onCompleted": "https://screeps.com/api/user/money-history"
+                "onUpdate": "https://screeps.com/a/#!/market/history"
             },
             "options":{
                 "image": "/options/images/market.history.png"
